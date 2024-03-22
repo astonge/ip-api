@@ -1,0 +1,4 @@
+ips.db
+__pycache__
+.env
+database/
